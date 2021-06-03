@@ -5,8 +5,8 @@ Lesson_12 - Creating a Server
 
 https://www.youtube.com/watch?v=lm86czWdrk0&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=12
 
-• Create a server via NodeJS.
+• Create a server via NodeJS’s core module HTTP.
 
-• Set server to listen for port 3000 on a computer. 
+• Set server to listen for a port 3000 client URL request. 
 
-• Make requests to server & deal w/ those requests in the code.
+• Make requests to server & deal w/ those requests in the response.
